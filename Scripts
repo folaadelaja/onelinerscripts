@@ -1,0 +1,10 @@
+
+#Script to just to update linux host (debian)
+git clone https://github.com/folaadelaja/update.git && cd update && sudo bash update_OS.sh
+
+
+
+
+#Script to install bunch of apps at fresh debian install
+
+git clone https://github.com/folaadelaja/My-script.git && cd My-script && chmod +x Folascript.sh  && ./Folascript.sh

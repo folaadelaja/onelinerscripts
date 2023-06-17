@@ -3,7 +3,7 @@ git clone https://github.com/folaadelaja/My-script.git && cd My-script && chmod 
 
 
 #Script to just to update linux host (debian)
-https://github.com/folaadelaja/MyCICD_scripts.git && cd MyCICD_scripts-main && sudo bash update_OS.sh
+https://github.com/folaadelaja/MyCICD_scripts.git && cd MyCICD_scripts && sudo bash update_OS.sh
 
 
 
